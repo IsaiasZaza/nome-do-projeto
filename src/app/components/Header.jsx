@@ -34,11 +34,10 @@ const Header = () => {
         <div className="md:hidden bg-white text-gray-800">
           <nav>
             <ul className="space-y-2 px-4 py-2">
-              <li><a href="#" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">Como Doar</a></li>
+              <li><a href="#" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">Torne-se Afiliado</a></li>
               <li><a href="#" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">Quem Somos</a></li>
-              <li><a href="#" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">Nossa História</a></li>
+              <li><a href="#" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">Produtos</a></li>
               <li><a href="#" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">O Que Fazemos</a></li>
-              <li><a href="/nossa-equipe" className="block px-4 py-2 text-gray-800 hover:text-yellow-500">Nossa Equipe</a></li>
               <li><a href="#" className="block px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-600">Doe Agora</a></li>
             </ul>
           </nav>
