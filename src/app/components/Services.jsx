@@ -2,9 +2,9 @@ import React from 'react';
 
 const Services = () => {
     return (
-        <section className="bg-black py-16">
+        <section className="bg-white py-16">
             <div className="container mx-auto px-4">
-                <h2 className="text-center text-3xl font-bold text-white mb-12">
+                <h2 className="text-center text-3xl font-bold text-black mb-12">
                     Excelência em Desenvolvimento Web & Marketing Digital
                 </h2>
                 <div className="grid md:grid-cols-3 gap-8">

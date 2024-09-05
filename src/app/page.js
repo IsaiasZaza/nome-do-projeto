@@ -3,6 +3,7 @@ import Slider from './components/Slider'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Services from './components/Services'
+import ComoUmSiteAjuda from './components/ComoUmSiteAjuda'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Header />
       <Slider />
       <Services />
+      <ComoUmSiteAjuda />
       <Footer />
     </>
   )
