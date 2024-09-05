@@ -49,7 +49,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="mt-8 border-t pt-4 text-center text-gray-600 text-sm">
-          <p>2024 © VLOSS COSMETICOS. Todos os direitos reservados.</p>
+          <p>2024 © Perfil no Ar. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
